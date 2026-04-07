@@ -1,0 +1,4 @@
+Arc Mainnet 2026: The main network is confirmed to launch in 2026.
+Agenic Commerce: Arc becomes the base layer for payments between AI agents using USDC.
+Nanopayments: The new chip is micropayments (less than a cent) without gas for B2B operations.
+Circle CCTP: Arc is tightly integrated with the USDC internetworking protocol.
